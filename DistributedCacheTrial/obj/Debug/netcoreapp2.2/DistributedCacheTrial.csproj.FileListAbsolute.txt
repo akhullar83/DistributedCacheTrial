@@ -1,0 +1,14 @@
+C:\Users\amitkhullar\source\repos\DistributedCacheTrial\DistributedCacheTrial\bin\Debug\netcoreapp2.2\DistributedCacheTrial.deps.json
+C:\Users\amitkhullar\source\repos\DistributedCacheTrial\DistributedCacheTrial\bin\Debug\netcoreapp2.2\DistributedCacheTrial.runtimeconfig.json
+C:\Users\amitkhullar\source\repos\DistributedCacheTrial\DistributedCacheTrial\bin\Debug\netcoreapp2.2\DistributedCacheTrial.runtimeconfig.dev.json
+C:\Users\amitkhullar\source\repos\DistributedCacheTrial\DistributedCacheTrial\bin\Debug\netcoreapp2.2\DistributedCacheTrial.dll
+C:\Users\amitkhullar\source\repos\DistributedCacheTrial\DistributedCacheTrial\obj\Debug\netcoreapp2.2\DistributedCacheTrial.csprojAssemblyReference.cache
+C:\Users\amitkhullar\source\repos\DistributedCacheTrial\DistributedCacheTrial\obj\Debug\netcoreapp2.2\DistributedCacheTrial.csproj.CoreCompileInputs.cache
+C:\Users\amitkhullar\source\repos\DistributedCacheTrial\DistributedCacheTrial\obj\Debug\netcoreapp2.2\DistributedCacheTrial.RazorAssemblyInfo.cache
+C:\Users\amitkhullar\source\repos\DistributedCacheTrial\DistributedCacheTrial\obj\Debug\netcoreapp2.2\DistributedCacheTrial.RazorAssemblyInfo.cs
+C:\Users\amitkhullar\source\repos\DistributedCacheTrial\DistributedCacheTrial\obj\Debug\netcoreapp2.2\DistributedCacheTrial.AssemblyInfoInputs.cache
+C:\Users\amitkhullar\source\repos\DistributedCacheTrial\DistributedCacheTrial\obj\Debug\netcoreapp2.2\DistributedCacheTrial.AssemblyInfo.cs
+C:\Users\amitkhullar\source\repos\DistributedCacheTrial\DistributedCacheTrial\obj\Debug\netcoreapp2.2\DistributedCacheTrial.RazorTargetAssemblyInfo.cache
+C:\Users\amitkhullar\source\repos\DistributedCacheTrial\DistributedCacheTrial\bin\Debug\netcoreapp2.2\DistributedCacheTrial.pdb
+C:\Users\amitkhullar\source\repos\DistributedCacheTrial\DistributedCacheTrial\obj\Debug\netcoreapp2.2\DistributedCacheTrial.dll
+C:\Users\amitkhullar\source\repos\DistributedCacheTrial\DistributedCacheTrial\obj\Debug\netcoreapp2.2\DistributedCacheTrial.pdb
